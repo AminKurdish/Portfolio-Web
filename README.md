@@ -15,4 +15,4 @@ A responsive personal portfolio website built using HTML, CSS, Bootstrap, and Ja
 - JavaScript
 
 ## Live Demo
-https://AminKurdish.github.io/index.html
+https://AminKurdish.github.io/
